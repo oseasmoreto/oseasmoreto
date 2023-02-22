@@ -2,7 +2,7 @@
 
 :notebook: Programador back-end Senior
 
-:books: Se especializando em front-end
+:books: Estudando front-end com afinco hehe
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Oseas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
