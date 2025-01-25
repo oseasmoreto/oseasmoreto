@@ -1,6 +1,6 @@
 <img width="180em" src="https://oseasmoreto.com/assets/images/logo.png" />
 
-:notebook: Programador back-end Senior
+:notebook: Coordenador de Produtos Internos por profissão 🧔, Programador Back-end Sênior de coração ❤️.
 
 :books: Estudando front-end com afinco hehe
 ##
